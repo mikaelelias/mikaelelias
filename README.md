@@ -6,8 +6,9 @@ Olá! 👋 Me chamo Mikael Elias, sou um desenvolvedor Front End apaixonado por 
 Acredito que compromisso, constância e confiança são fundamentais para o desenvolvimento de um bom profissional na área de desenvolvimento. Baseio minha evolução diária nestes pilares, buscando sempre aprender e aplicar novos conceitos.
 
 ## Tecnologias que Domino:
+ 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node](https://github.com/user-attachments/assets/a6788fde-f9b0-44f3-b91d-c347504132e3)
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 HTML | CSS | JavaScript | React
 
